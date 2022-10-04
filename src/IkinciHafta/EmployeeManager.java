@@ -1,0 +1,8 @@
+package BirinciHafta;
+
+public class EmployeeManager extends PersonManager{
+    public void maasYatir(){
+        System.out.println("yatırıldı");
+    }
+
+}
