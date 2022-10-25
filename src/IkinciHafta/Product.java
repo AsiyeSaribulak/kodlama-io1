@@ -1,4 +1,4 @@
-package BirinciHafta;
+package IkinciHafta;
 
 public class Product {
     private int id;

@@ -1,24 +1,30 @@
+/*
 public class Main {
     public static void main(String[] args) {
-              /* VARİABLE
+              */
+/* VARİABLE
         int sayi=10;
         String mesaj="öğrenci sayısı: ";
         System.out.println(mesaj +sayi);
         System.out.println("öğrenci sayım:"+sayi);
         System.out.println("öğrenci sayım:"+sayi);
-        System.out.println("öğrenci sayım:"+sayi);*/
+        System.out.println("öğrenci sayım:"+sayi);*//*
+
 
                  //ŞART BLOKLARI//
-        /*int sayi=10;
+        */
+/*int sayi=10;
         if(sayi<20)
         { System.out.println("sayi 20 en küçüktür.");
         } else if (sayi==20) {
             System.out.println("sayı 20 e eşittir");
         }else {
             System.out.println("sayı 20 den büyüktür");
-        }*/
+        }*//*
 
-        /*int sayi1=20;
+
+        */
+/*int sayi1=20;
         int sayi2=25;
         int sayi3=2;
         int eb=sayi1;
@@ -28,10 +34,12 @@ public class Main {
             System.out.println("en büyük sayi: "+sayi3);
         }else {
             System.out.println("en büyük sayi: "+sayi1);
-        }*/
+        }*//*
+
 
               //SWİTCH
-       /* char grade='C';
+       */
+/* char grade='C';
         switch (grade){
             case 'A':
                 System.out.println("Mükemmel: geçtiniz");
@@ -50,24 +58,30 @@ public class Main {
                 break;
             default:
                 System.out.println("Geçersiz not girdiniz");
-        }*/
+        }*//*
+
 
               //DÖNGÜLER
         // for (int i=1;i<10;i+=2){
         //   System.out.println(i);
-        /*int i=1;
+        */
+/*int i=1;
         while(i<10){
             System.out.println(i);
             i++;
-        }*/
-       /* int j=40;
+        }*//*
+
+       */
+/* int j=40;
         do {
             System.out.println(j);
             j++;
-        }while (j>41);*/
+        }while (j>41);*//*
+
 
              // Diziler
-       /* String[] sehir=new String[3];
+       */
+/* String[] sehir=new String[3];
         sehir[0]="ankara";
         sehir[1]="bilecik";
         sehir[2]="van";
@@ -109,20 +123,24 @@ public class Main {
             System.out.println("----------");
             for (int j=0;j< sehirler.length;j++)
                 System.out.println(sehirler[i][j]);
-        }*/
+        }*//*
+
 
               //STRİNGLER
-       /* String mesaj="Bugün hava çok güzel";
+       */
+/* String mesaj="Bugün hava çok güzel";
         System.out.println(mesaj);
         System.out.println("4.eleman:"+mesaj.charAt(3));
         System.out.println(mesaj.concat(" yuppiii!"));
         char[] karakterler=new char[5];
         mesaj.getChars(0,2,karakterler,0);
         System.out.println(karakterler);
-        System.out.println(mesaj.indexOf("av"));*/
+        System.out.println(mesaj.indexOf("av"));*//*
+
 
                //ASAL SAYI
-      /*  int number = 2;
+      */
+/*  int number = 2;
         int reminder = number % 2;
         boolean isPrime=true;
 
@@ -142,10 +160,12 @@ public class Main {
                 System.out.println("sayı asaldır:" + number);
             } else {
                 System.out.println("sayı asal değil:" + number);
-            }*/
+            }*//*
+
 
                   //KALIN SESLİ VE İNCE SESLİ  HARF
-   /*     char harf='E';
+   */
+/*     char harf='E';
         switch (harf){
             case 'A':
             case 'I':
@@ -155,9 +175,11 @@ public class Main {
                 break;
             default:
                 System.out.println("İnce sesli harf");
-        }*/
+        }*//*
 
-       /* //MÜKEMMEL SAYI
+
+       */
+/* //MÜKEMMEL SAYI
         int number=6;
         int toplam=0;
         for (int i=1;i<number;i++){
@@ -169,7 +191,9 @@ public class Main {
             System.out.println("mükemmel sayıdır");
         }else{
             System.out.println("mükemmel sayı değildir");
-        }*/
+        }*//*
+
 
     }
 }
+*/

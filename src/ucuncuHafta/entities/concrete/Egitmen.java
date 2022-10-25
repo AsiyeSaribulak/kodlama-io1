@@ -1,26 +1,23 @@
-package IkinciHafta;
+package ucuncuHafta.entities.concrete;
 
-public class Person {
+import ucuncuHafta.entities.abstracts.Entity;
+
+public class Egitmen implements Entity {
     private int id;
     private String firstName;
     private String lastName;
 
-    public Person() {
-
-    }
-    public Person(int id, String firstName, String lastName) {
-        this.id = id;
-        this.firstName = firstName;
-        this.lastName = lastName;
+    public Egitmen(int id, String firstName, String lastName){
+        this.id=id;
+        this.firstName=firstName;
+        this.lastName=lastName;
     }
 
-
-    public int getId() {
+    public int getId(){
         return id;
     }
-
-    public void setId(int id) {
-        this.id = id;
+    public void setId(){
+        this.id=id;
     }
 
     public String getFirstName() {
@@ -38,6 +35,4 @@ public class Person {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
-
-
 }

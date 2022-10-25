@@ -1,4 +1,4 @@
-package BirinciHafta;
+package IkinciHafta;
 
 public class EmployeeManager extends PersonManager{
     public void maasYatir(){

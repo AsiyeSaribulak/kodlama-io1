@@ -1,4 +1,4 @@
-package BirinciHafta;
+package IkinciHafta;
 
 public class ProductManager {
     public void Add(Product product){

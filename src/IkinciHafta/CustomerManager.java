@@ -1,4 +1,4 @@
-package BirinciHafta;
+package IkinciHafta;
 
 public class CustomerManager extends PersonManager{
     public void emailOlustur(){

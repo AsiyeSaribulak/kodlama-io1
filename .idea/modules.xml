@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kodlama-io1.iml" filepath="$PROJECT_DIR$/kodlama-io1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucuncuHaftaOOP/ucuncuHaftaOOP.iml" filepath="$PROJECT_DIR$/ucuncuHaftaOOP/ucuncuHaftaOOP.iml" />
     </modules>
   </component>
 </project>

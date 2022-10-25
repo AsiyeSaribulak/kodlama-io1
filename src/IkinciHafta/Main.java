@@ -1,4 +1,4 @@
-package BirinciHafta;
+package IkinciHafta;
 
 public class Main {
     public static void main(String[] args) {
